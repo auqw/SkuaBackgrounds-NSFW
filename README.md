@@ -2,8 +2,12 @@
 
 [Download this repo](https://github.com/auqw/SkuaBackgrounds-NSFW/archive/refs/heads/main.zip) OR choose an SWF file in the repository and put it in `~/Documents/Skua/Themes`
 # Rules:
-1. NO **POLITICS** This is a video game, we don't care about your political views
-2. Naming Convention: 
+1. NSFW is accepted; however, we will not accept the following:
+   - Gore
+   - Rape
+   - Anything Illegal
+3. NO **POLITICS** This is a video game, we don't care about your political views
+4. Naming Convention: 
  - Not Accepted: `73ufhehxw.swf` > Accepted: `ProperName.swf` E.G., If your PR says `ChaosQueenBeleen.swf` but the file is named `ghasdh123.swf`, we will make you change it before merging
 
 # Making a Background
