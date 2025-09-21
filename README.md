@@ -5,7 +5,7 @@
 1. NSFW is accepted; however, we will not accept the following:
    - Gore
    - Rape
-   - Anything Illegal
+   - **Anything Illegal** Not just stuff in the USA 
 3. NO **POLITICS** This is a video game, we don't care about your political views
 4. Naming Convention: 
  - Not Accepted: `73ufhehxw.swf` > Accepted: `ProperName.swf` E.G., If your PR says `ChaosQueenBeleen.swf` but the file is named `ghasdh123.swf`, we will make you change it before merging
