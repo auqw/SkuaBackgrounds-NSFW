@@ -1,6 +1,6 @@
-# [Skua Backgrounds NSFW](https://github.com/auqw/SkuaBackground-NSFW)
+# [Skua Backgrounds NSFW](https://github.com/auqw/SkuaBackgrounds-NSFW)
 
-[Download this repo](https://github.com/auqw/SkuaBackground-NSFW/archive/refs/heads/main.zip) OR choose an SWF file in the repository and put it in `~/Documents/Skua/Themes`
+[Download this repo](https://github.com/auqw/SkuaBackgrounds-NSFW/archive/refs/heads/main.zip) OR choose an SWF file in the repository and put it in `~/Documents/Skua/Themes`
 # Rules:
 1. NO **POLITICS** This is a video game, we don't care about your political views
 2. Naming Convention: 
