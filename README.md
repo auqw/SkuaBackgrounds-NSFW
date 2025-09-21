@@ -1,5 +1,7 @@
 # [Skua Backgrounds NSFW](https://github.com/auqw/SkuaBackgrounds-NSFW)
 
+## [Main Repository](https://github.com/auqw/SkuaBackgrounds)
+
 [Download this repo](https://github.com/auqw/SkuaBackgrounds-NSFW/archive/refs/heads/main.zip) OR choose an SWF file in the repository and put it in `~/Documents/Skua/Themes`
 # Rules:
 1. NSFW is accepted; however, we will not accept the following:
